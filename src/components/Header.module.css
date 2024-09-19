@@ -1,0 +1,22 @@
+/* src/components/Header.module.css */
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #333;
+  color: #fff;
+}
+
+.nav {
+  display: inline-block; /* Opcional: para alinhar os links centralmente */
+}
+
+.nav a {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  text-decoration: underline;
+}
