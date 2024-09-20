@@ -4,7 +4,7 @@ const Home: React.FC = () => {
   return (
     <main style={mainStyle}>
       <h2>Visual Law</h2>
-      <p>Visualize informações legais de forma clara e interativa.</p>
+      <p>Visualize informações legais de forma clara.</p>
     </main>
   );
 };
